@@ -15,7 +15,7 @@
 
 <div align="center"> Social and Contact Info. </div><br>
   <p align="center">
-<a href="https://www.linkedin.com/in/oluwamurewa-ayanga-131728221/"><img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="CodePen" /></a>&nbsp; <a href="mailto:ayangaoluwamurewa@gmail.com"><img src="https://img.shields.io/badge/gmail-d62828?style=for-the-badge&logo=gmail&logoColor=white" alt="CodePen" /></a>&nbsp; <a href="https://twitter.com/sameu_q"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/oluwamurewa-ayanga-131728221/"><img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="CodePen" /></a>&nbsp; <a href="mailto:ayangaoluwamurewa@gmail.com"><img src="https://img.shields.io/badge/gmail-d62828?style=for-the-badge&logo=gmail&logoColor=white" alt="CodePen" /></a>&nbsp; <a href="https://twitter.com/xero_sine"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 
 <a href="https://docs.google.com/document/d/1N6pk98MupNxl_OvJTqbFvAgzEfdipHlD/edit?usp=share_link&ouid=106623965950946196576&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Résumé-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Dev.to" /></a>&nbsp;
 </p><br>
