@@ -48,7 +48,7 @@
       </tr>
     </thead>
     <tr>
-      <td align="center" width=110>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/js/js-original.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=110>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="icon" width="65" height="65" /> </td>
       <!-- <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> </td> -->
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td>
@@ -61,11 +61,11 @@
       <td align="center" width=110>HTML</td>
       <td align="center" width=110>Python</td>
     </tr>
-    <tr>
-      <!-- <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> </td> -->
+    <!--<tr>
+       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> </td>
     <tr>
       <td align="center" width=110>Markdown</td>
-    </tr>
+    </tr> -->
   </table>
 
   <table>
@@ -79,7 +79,7 @@
       </tr>
       <tr>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/> </td>
-      <td align="center" width=110> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /></td>
+      <td align="center" width=110> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/> </td>
       <tr align="center"> 
         <td align="center" width=110>Vuejs</td>
@@ -130,7 +130,7 @@
 
 
 
-F
+
 ## 📊 GitHub Statistics
 <table>
 <tr>
