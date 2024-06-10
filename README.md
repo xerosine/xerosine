@@ -7,7 +7,7 @@
 <!-- GREETING  -->
 <h3 align="center">
   Hello! Welcome to my profile.<br><br><br>
-
+</h3>
 
   
 
@@ -77,7 +77,7 @@
       <tr align="center"> 
       </tr>
       <tr>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> </td>
       <td align="center" width=110> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> </td>
       <td align="center" width=110> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /> </td>
       <tr align="center"> 
@@ -103,14 +103,14 @@
     </tr>
     </thead>
     <tr>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> </td>
+      <td align="center" width=110> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> </td>
       <td align="center" width=110> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> </td>
     </tr>
     <tr> 
-      <td align="center" width=110>MySQL</td>
+      <td align="center" width=110>Node</td>
       <td align="center" width=110>Mongodb</td>
-      <td align="center" width=110>Git</td>
+      <td align="center" width=110>MySQL</td>
     </tr>
     <!-- <tr>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> </td> 
