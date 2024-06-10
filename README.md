@@ -7,7 +7,6 @@
 <!-- GREETING  -->
 <h3 align="center">
   Hello! Welcome to my profile.<br><br><br>
-</h3>
 
   
 
