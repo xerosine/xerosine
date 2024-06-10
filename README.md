@@ -6,7 +6,10 @@
 
 <!-- GREETING  -->
 <h3 align="center">
-  Hello! Welcome to my profile.<br> *****
+  Hello! Welcome to my profile.<br>
+
+
+  
 
 
 <div align="center"> Social and Contact Info. </div><br>
