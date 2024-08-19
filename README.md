@@ -47,7 +47,7 @@
     </thead>
     <tr>
       <td align="center" width=110>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="icon" width="65" height="65" /> </td>
-      <!-- <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> </td> -->
+      <td align="center" width=110>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> </td>
@@ -69,7 +69,7 @@
   <table>
     <thead>
       <tr>
-        <th colspan="3">Frameworks & Libraries </th>
+        <th colspan="4">Frameworks & Libraries </th>
       </tr>
     </thead>
     <tr>
